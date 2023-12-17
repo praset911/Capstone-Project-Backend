@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Dalam file CSS Anda */
+.rdt_Table {
+    border: 1px solid #ddd;
+}
+
+.rdt_Pagination {
+    margin-top: 20px;
+}
+
+.rdt_TableRow:hover {
+    background-color: #f5f5f5;
+}
