@@ -1,8 +1,8 @@
-import Profile from "../components/Fragments/Profile";
-import Members from "../components/Fragments/Members";
-import WhyUs from "../components/Fragments/WhyUs";
+import Profile from "../Components/Fragments/Profile";
+import Members from "../Components/Fragments/Members";
+import WhyUs from "../Components/Fragments/WhyUs";
 import Navbar from "../Components/Fragments/Navbar";
-import Footer from "../components/Fragments/Footer";
+import Footer from "../Components/Fragments/Footer";
 import { Head } from "@inertiajs/react";
 
 const AboutUs = ({ auth }) => {
