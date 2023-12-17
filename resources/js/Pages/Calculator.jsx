@@ -1,11 +1,11 @@
 import React, { useState } from "react";
-import { calculateBMI } from "../components/Utils/BMICal";
-import { calculateCalories } from "../components/Utils/CaloriesCal";
-import { calculateBodyWeight } from "../components/Utils/BodyWeightCal";
-import InputForm from "../components/Elements/InputForm";
-import ResultDisplay from "../components/Fragments/ResultDisplay";
+import { calculateBMI } from "../Components/Utils/BMICal";
+import { calculateCalories } from "../Components/Utils/CaloriesCal";
+import { calculateBodyWeight } from "../Components/Utils/BodyWeightCal";
+import InputForm from "../Components/Elements/InputForm";
+import ResultDisplay from "../Components/Fragments/ResultDisplay";
 import Navbar from "../Components/Fragments/Navbar";
-import Footer from "../components/Fragments/Footer";
+import Footer from "../Components/Fragments/Footer";
 import MyDataTable from "@/Components/Elements/MyDataTable";
 import { Head } from "@inertiajs/react";
 
